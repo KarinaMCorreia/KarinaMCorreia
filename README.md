@@ -1,6 +1,7 @@
+![Design sem nome (4)](https://user-images.githubusercontent.com/31394730/116846927-d4123b80-abbf-11eb-9907-0acb45e5f141.png)
 ## Hey! Welcome to my profile! How is it going? 👋🥰!
 
-
+![Design sem nome (4)](https://user-images.githubusercontent.com/31394730/116846927-d4123b80-abbf-11eb-9907-0acb45e5f141.png)
  <div>
   <a href="https://github.com/KarinaMCorreia">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=KarinaMCorreia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
