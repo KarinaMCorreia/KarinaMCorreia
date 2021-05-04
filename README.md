@@ -1,5 +1,5 @@
 
-### Hey! Welcome to my profile! How is it going? 👋🥰<img align="center" alt="Karina-Dotnet" height="30" width="40" src="https://icongr.am/simple/buymeacoffee.svg?size=45&color=357eac&colored=false">
+### Hey! Welcome to my profile! How is it going? 👋🥰<img align="center" alt="Karina-Dotnet" height="30" width="40" src="https://icongr.am/simple/buymeacoffee.svg?size=31&color=357eac&colored=false">
 
 
  <div>
