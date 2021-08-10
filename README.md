@@ -22,6 +22,9 @@
   <img align="center" alt="Karina-Dotnet" height="30" width="40" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=59&color=6f446d.svg">
  
   <img align="right"  alt="Karina-cat" src="https://user-images.githubusercontent.com/31394730/116843767-4b8f9d00-abb7-11eb-831c-46e5c68a1270.gif">
+  
+   ![Snake animation](https://github.com/KarinaMCorreia/KarinaMCorreia/blob/output/github-contribution-grid-snake.svg)
+  
  </div>
 
 
