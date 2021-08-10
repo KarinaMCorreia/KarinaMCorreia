@@ -12,6 +12,8 @@
 <div>
   <a href = "mailto: ka.mendes.correia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/karina-mendes-correia-a23301ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
  </div>
  
   ##
@@ -23,11 +25,13 @@
  
   <img align="right"  alt="Karina-cat" src="https://user-images.githubusercontent.com/31394730/116843767-4b8f9d00-abb7-11eb-831c-46e5c68a1270.gif">
   
-   ![Snake animation](https://github.com/KarinaMCorreia/KarinaMCorreia/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/KarinaMCorreia/KarinaMCorreia/blob/output/github-contribution-grid-snake.svg)
+
   
  </div>
 
-
+  
+    
 
 
 
